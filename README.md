@@ -1,4 +1,4 @@
-# 📋 Enquête de Satisfaction Employé – KoboToolbox & XLSForm
+# 📋 Enquête de Satisfaction Employé
 
 ## 🎯 Objectif
 Concevoir et déployer une enquête de satisfaction employé optimisée pour la collecte mobile, en utilisant KoboToolbox, le standard XLSForm et Enketo pour la saisie web.
