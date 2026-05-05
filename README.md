@@ -74,6 +74,7 @@ Le formulaire permet :
 
 ## 🔗 Accès au formulaire
 👉 https://ee.kobotoolbox.org/x/pgeu64OX
+    [Enquete_de_satisfaction_des_employes_V1.xlsx](Docs/Enquete_de_satisfaction_des_employes_V1.xlsx)
 
 ---
 
@@ -84,14 +85,4 @@ Le formulaire permet :
 - Intégration de logique avancée (conditions + scoring)
 - Approche orientée décision RH
 
----
 
-## 📌 Améliorations futures
-- Intégration d’un dashboard analytique (Excel / Power BI)
-- Automatisation du reporting
-- Suivi longitudinal (baromètre RH)
-
----
-
-## 👤 Auteur
-Data Analyst | Excel | KoboToolbox | XLSForm
